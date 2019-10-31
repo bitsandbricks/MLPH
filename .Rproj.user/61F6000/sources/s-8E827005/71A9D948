@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572488219026.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3418879593",
+    "id" : "71A9D948",
+    "lastKnownWriteTime" : 1572488376,
+    "last_content_update" : 1572488376059,
+    "path" : "~/Documents/repos/MLPH/02-un_proyecto_de_ML.Rmd",
+    "project_path" : "02-un_proyecto_de_ML.Rmd",
+    "properties" : {
+        "cursorPosition" : "2,2",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

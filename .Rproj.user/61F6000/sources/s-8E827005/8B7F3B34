@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572488802205.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4276192795",
+    "id" : "8B7F3B34",
+    "lastKnownWriteTime" : 1572488699,
+    "last_content_update" : 1572488699,
+    "path" : "~/Documents/repos/MLPH/06-PLN.Rmd",
+    "project_path" : "06-PLN.Rmd",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
